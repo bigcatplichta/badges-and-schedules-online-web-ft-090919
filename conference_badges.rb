@@ -17,4 +17,3 @@ def assign_rooms(attendees)
   end
   room_list
 end
-
